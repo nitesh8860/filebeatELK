@@ -1,0 +1,7218 @@
+1552312062      1       1       Mon Mar 11 13:47:42 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552312289      0       1       Mon Mar 11 13:51:29 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1552314382      0       1       Mon Mar 11 14:26:22 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552314522      0       1       Mon Mar 11 14:28:42 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552314613      0       1       Mon Mar 11 14:30:13 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 152
+1552314676      0       1       Mon Mar 11 14:31:16 2019        2217489 2
+        NDP_MRI psc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 152
+
+
+SR 310
+1552314836      0       1       Mon Mar 11 14:33:56 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552314976      0       1       Mon Mar 11 14:36:16 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552315208      0       1       Mon Mar 11 14:40:08 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552315514      0       1       Mon Mar 11 14:45:14 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552315838      0       1       Mon Mar 11 14:50:38 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 6 , No of Failed Scan = 1
+
+EN 155
+
+
+SR 168
+1552318103      0       1       Mon Mar 11 15:28:23 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            7
+
+No successful FTG check in 1 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 155
+1552320167      0       1       Mon Mar 11 16:02:47 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 163
+1552320661      0       1       Mon Mar 11 16:11:01 2019        200002364       4
+        NDP_MRI hostMonitor
+ssSigHandlers.c         216
+
+Signal 15 was received, causing a system shutdown.
+
+EN 163
+
+
+SR 146
+1552320664      0       1       Mon Mar 11 16:11:04 2019        200002348       4
+        NDP_MRI hostMonitor
+ssProcStop.c            1531
+
+The System Software has terminated.
+
+EN 146
+
+
+SR 165
+1552320669      0       1       Mon Mar 11 16:11:09 2019        10096   4
+        NDP_MRI arserver
+arsserver.c             349
+
+Shutting central archive server process down due to signal:  2
+
+EN 165
+
+
+SR 202
+1552376629      0       1       Tue Mar 12 07:43:49 2019        200002316       4
+        NDP_MRI hostMonitor
+ssInitFileProcessing.c          589
+
+Application rirTest was prevented from running by environment variable NO_rirTest.
+
+EN 202
+
+
+SR 194
+1552376630      0       1       Tue Mar 12 07:43:50 2019        200002316       4
+        NDP_MRI hostMonitor
+ssInitFileProcessing.c          589
+
+Application tie was prevented from running by environment variable NO_tie.
+
+EN 194
+
+
+SR 193
+1552376630      1       1       Tue Mar 12 07:43:50 2019        200002305       4
+        NDP_MRI hostMonitor
+ssListProcessing.c              984
+
+The precursor tie, required for spectro was not found, so it will be removed.
+
+EN 193
+
+
+SR 193
+1552376630      2       1       Tue Mar 12 07:43:50 2019        200002305       4
+        NDP_MRI hostMonitor
+ssListProcessing.c              984
+
+The precursor tie, required for msgView was not found, so it will be removed.
+
+EN 193
+
+
+SR 146
+1552376630      3       1       Tue Mar 12 07:43:50 2019        200002347       4
+        NDP_MRI hostMonitor
+cupMonitor.c            318
+
+The System Software is starting.....
+
+EN 146
+
+
+SR 163
+1552376635      0       1       Tue Mar 12 07:43:55 2019        9001    4
+        NDP_MRI msgView
+application.c           274
+
+Unable to set connection -   server NETserver  host NDP_MRI.
+
+EN 163
+
+
+SR 171
+1552376659      0       1       Tue Mar 12 07:44:19 2019        5600    6
+        NDP_MRI msgView
+msgView.c               269
+
+The msgView process and the error log have been successfully initialized.
+
+EN 171
+
+
+SR 235
+1552376682      0       1       Tue Mar 12 07:44:42 2019        10180   4
+        NDP_MRI arsjob
+ArchiveDevice.c                 4615
+
+Resetting ARS  SONYSMO-F551 - $Id: @(#)ArchiveDevice.oN32 mukeshb Thu Feb 24 21:08:47 CST 2005 /view/IRIX646.5_blr_R2.9i_Patch $
+
+
+EN 235
+
+
+SR 139
+1552376686      0       1       Tue Mar 12 07:44:46 2019        10033   4
+        NDP_MRI arsjob
+ArchiveDevice.c                 4780
+
+There is no media in the drive.  
+
+EN 139
+
+
+SR 151
+1552376696      0       1       Tue Mar 12 07:44:56 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Tue Mar 12 07:44:56 2019
+
+
+EN 151
+
+
+SR 275
+1552376736      0       1       Tue Mar 12 07:45:36 2019        2225081 1
+        NDP_MRI NSP
+HPC_PORT_ID:hpc_rd_ipg_cfg              11
+
+RF door switch and PDU status are not being monitored.
+The TYME II is emulated in the ipg_stage file.  Remove emulation flag 
+and Reset TPS to enable monitoring.
+
+EN 275
+
+
+SR 310
+1552377841      0       1       Tue Mar 12 08:04:01 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552377997      0       1       Tue Mar 12 08:06:37 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552378098      0       1       Tue Mar 12 08:08:18 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 153
+1552378127      0       1       Tue Mar 12 08:08:47 2019        2217489 2
+        NDP_MRI ifcc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 153
+
+
+SR 310
+1552378202      0       1       Tue Mar 12 08:10:02 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 152
+1552378331      0       1       Tue Mar 12 08:12:11 2019        2217489 2
+        NDP_MRI psc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 152
+
+
+SR 153
+1552378331      1       1       Tue Mar 12 08:12:11 2019        2217489 2
+        NDP_MRI ifcc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 153
+
+
+SR 310
+1552378333      0       1       Tue Mar 12 08:12:13 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 153
+1552378361      0       1       Tue Mar 12 08:12:41 2019        2217489 2
+        NDP_MRI ifcc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 153
+
+
+SR 310
+1552378494      0       1       Tue Mar 12 08:14:54 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552378623      0       1       Tue Mar 12 08:17:03 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552378715      0       1       Tue Mar 12 08:18:35 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552378934      0       1       Tue Mar 12 08:22:14 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552379203      0       1       Tue Mar 12 08:26:43 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 149
+1552379203      1       1       Tue Mar 12 08:26:43 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Tue Mar 12 08:26:43 2019
+
+
+EN 149
+
+
+SR 226
+1552379220      0       1       Tue Mar 12 08:27:00 2019        2224567 1
+        NDP_MRI psc
+PscMainControl.cc               1169
+Auto Prescan incomplete. R1=11   R2=15   TG=165.
+Could not identify fat and water peaks. Set Center Frequency manually.
+
+EN 226
+
+
+SR 310
+1552379262      0       1       Tue Mar 12 08:27:42 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 226
+1552379279      0       1       Tue Mar 12 08:27:59 2019        2224567 1
+        NDP_MRI psc
+PscMainControl.cc               1169
+Auto Prescan incomplete. R1=11   R2=15   TG=164.
+Could not identify fat and water peaks. Set Center Frequency manually.
+
+EN 226
+
+
+SR 310
+1552379410      0       1       Tue Mar 12 08:30:10 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552379504      0       1       Tue Mar 12 08:31:44 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 156
+1552379891      0       1       Tue Mar 12 08:38:11 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 11 , No of Failed Scan = 0
+
+EN 156
+
+
+SR 153
+1552382271      0       1       Tue Mar 12 09:17:51 2019        2217489 2
+        NDP_MRI ifcc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 153
+
+
+SR 156
+1552384655      0       1       Tue Mar 12 09:57:35 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 13 , No of Failed Scan = 0
+
+EN 156
+
+
+SR 310
+1552386630      0       1       Tue Mar 12 10:30:30 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552386758      0       1       Tue Mar 12 10:32:38 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552386901      0       1       Tue Mar 12 10:35:01 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552387088      0       1       Tue Mar 12 10:38:08 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552387321      0       1       Tue Mar 12 10:42:01 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552387605      0       1       Tue Mar 12 10:46:45 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552387915      0       1       Tue Mar 12 10:51:55 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 6 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1552388728      0       1       Tue Mar 12 11:05:28 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552388728      1       1       Tue Mar 12 11:05:28 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552388851      0       1       Tue Mar 12 11:07:31 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552388851      1       1       Tue Mar 12 11:07:31 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552389075      0       1       Tue Mar 12 11:11:15 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552389075      1       1       Tue Mar 12 11:11:15 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552389260      0       1       Tue Mar 12 11:14:20 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552389260      1       1       Tue Mar 12 11:14:20 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552389477      0       1       Tue Mar 12 11:17:57 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552389477      1       1       Tue Mar 12 11:17:57 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552389690      0       1       Tue Mar 12 11:21:30 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552389690      1       1       Tue Mar 12 11:21:30 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552389878      0       1       Tue Mar 12 11:24:38 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552389878      1       1       Tue Mar 12 11:24:38 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552390252      0       1       Tue Mar 12 11:30:52 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 151
+1552393653      0       1       Tue Mar 12 12:27:33 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Tue Mar 12 12:27:33 2019
+
+
+EN 151
+
+
+SR 149
+1552396072      0       1       Tue Mar 12 13:07:52 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Tue Mar 12 13:07:52 2019
+
+
+EN 149
+
+
+SR 168
+1552403349      0       1       Tue Mar 12 15:09:09 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            7
+
+No successful FTG check in 1 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 155
+1552405531      0       1       Tue Mar 12 15:45:31 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 168
+1552406965      0       1       Tue Mar 12 16:09:25 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            7
+
+No successful FTG check in 1 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 153
+1552407755      0       1       Tue Mar 12 16:22:35 2019        2217489 2
+        NDP_MRI ifcc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 153
+
+
+SR 155
+1552408888      0       1       Tue Mar 12 16:41:28 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 163
+1552409266      0       1       Tue Mar 12 16:47:46 2019        200002364       4
+        NDP_MRI hostMonitor
+ssSigHandlers.c         216
+
+Signal 15 was received, causing a system shutdown.
+
+EN 163
+
+
+SR 160
+1552409267      0       1       Tue Mar 12 16:47:47 2019        333027  4
+        NDP_MRI lais
+lais.c          514
+
+SVAT Proxy: error: TPS event handler child terminated unexpectedly
+
+EN 160
+
+
+SR 156
+1552409267      1       1       Tue Mar 12 16:47:47 2019        200002379       4
+        NDP_MRI hostMonitor
+ssSigHandlers.c         141
+
+Process lais, pid 2268 exited with status=1
+
+EN 156
+
+
+SR 146
+1552409270      0       1       Tue Mar 12 16:47:50 2019        200002348       4
+        NDP_MRI hostMonitor
+ssProcStop.c            1531
+
+The System Software has terminated.
+
+EN 146
+
+
+SR 165
+1552409277      0       1       Tue Mar 12 16:47:57 2019        10096   4
+        NDP_MRI arserver
+arsserver.c             349
+
+Shutting central archive server process down due to signal:  2
+
+EN 165
+
+
+SR 147
+1552409277      1       1       Tue Mar 12 16:47:57 2019        10139   4
+        NDP_MRI arserver
+arsserver.c             236
+
+Closing down the archive server processes.  
+
+EN 147
+
+
+SR 202
+1552462870      0       1       Wed Mar 13 07:41:10 2019        200002316       4
+        NDP_MRI hostMonitor
+ssInitFileProcessing.c          589
+
+Application rirTest was prevented from running by environment variable NO_rirTest.
+
+EN 202
+
+
+SR 194
+1552462870      1       1       Wed Mar 13 07:41:10 2019        200002316       4
+        NDP_MRI hostMonitor
+ssInitFileProcessing.c          589
+
+Application tie was prevented from running by environment variable NO_tie.
+
+EN 194
+
+
+SR 193
+1552462870      2       1       Wed Mar 13 07:41:10 2019        200002305       4
+        NDP_MRI hostMonitor
+ssListProcessing.c              984
+
+The precursor tie, required for spectro was not found, so it will be removed.
+
+EN 193
+
+
+SR 193
+1552462871      0       1       Wed Mar 13 07:41:11 2019        200002305       4
+        NDP_MRI hostMonitor
+ssListProcessing.c              984
+
+The precursor tie, required for msgView was not found, so it will be removed.
+
+EN 193
+
+
+SR 146
+1552462871      1       1       Wed Mar 13 07:41:11 2019        200002347       4
+        NDP_MRI hostMonitor
+cupMonitor.c            318
+
+The System Software is starting.....
+
+EN 146
+
+
+SR 163
+1552462875      0       1       Wed Mar 13 07:41:15 2019        9001    4
+        NDP_MRI msgView
+application.c           274
+
+Unable to set connection -   server NETserver  host NDP_MRI.
+
+EN 163
+
+
+SR 171
+1552462899      0       1       Wed Mar 13 07:41:39 2019        5600    6
+        NDP_MRI msgView
+msgView.c               269
+
+The msgView process and the error log have been successfully initialized.
+
+EN 171
+
+
+SR 235
+1552462922      0       1       Wed Mar 13 07:42:02 2019        10180   4
+        NDP_MRI arsjob
+ArchiveDevice.c                 4615
+
+Resetting ARS  SONYSMO-F551 - $Id: @(#)ArchiveDevice.oN32 mukeshb Thu Feb 24 21:08:47 CST 2005 /view/IRIX646.5_blr_R2.9i_Patch $
+
+
+EN 235
+
+
+SR 139
+1552462927      0       1       Wed Mar 13 07:42:07 2019        10033   4
+        NDP_MRI arsjob
+ArchiveDevice.c                 4780
+
+There is no media in the drive.  
+
+EN 139
+
+
+SR 151
+1552462936      0       1       Wed Mar 13 07:42:16 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Wed Mar 13 07:42:16 2019
+
+
+EN 151
+
+
+SR 275
+1552462968      0       1       Wed Mar 13 07:42:48 2019        2225081 1
+        NDP_MRI NSP
+HPC_PORT_ID:hpc_rd_ipg_cfg              11
+
+RF door switch and PDU status are not being monitored.
+The TYME II is emulated in the ipg_stage file.  Remove emulation flag 
+and Reset TPS to enable monitoring.
+
+EN 275
+
+
+SR 168
+1552463583      0       1       Wed Mar 13 07:53:03 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            7
+
+No successful FTG check in 1 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 155
+1552465562      0       1       Wed Mar 13 08:26:02 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 149
+1552465590      0       1       Wed Mar 13 08:26:30 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Wed Mar 13 08:26:30 2019
+
+
+EN 149
+
+
+SR 152
+1552466876      0       1       Wed Mar 13 08:47:56 2019        2217489 2
+        NDP_MRI psc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 152
+
+
+SR 156
+1552468666      0       1       Wed Mar 13 09:17:46 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 11 , No of Failed Scan = 0
+
+EN 156
+
+
+SR 310
+1552473168      0       1       Wed Mar 13 10:32:48 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 171
+1552473168      1       1       Wed Mar 13 10:32:48 2019        2224580 1
+        NDP_MRI NSP
+TPS:aps_cf              11
+
+Auto Prescan failed. Signal was too small to process - use Manual Prescan.
+
+EN 171
+
+
+SR 171
+1552473168      2       1       Wed Mar 13 10:32:48 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, signal too small. Please try Manual Prescan.
+
+EN 171
+
+
+SR 156
+1552475022      0       1       Wed Mar 13 11:03:42 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 16 , No of Failed Scan = 0
+
+EN 156
+
+
+SR 151
+1552480039      0       1       Wed Mar 13 12:27:19 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Wed Mar 13 12:27:19 2019
+
+
+EN 151
+
+
+SR 310
+1552480236      0       1       Wed Mar 13 12:30:36 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552480359      0       1       Wed Mar 13 12:32:39 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552480500      0       1       Wed Mar 13 12:35:00 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552480672      0       1       Wed Mar 13 12:37:52 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552480885      0       1       Wed Mar 13 12:41:25 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552481194      0       1       Wed Mar 13 12:46:34 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552481504      0       1       Wed Mar 13 12:51:44 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 6 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 149
+1552482604      0       1       Wed Mar 13 13:10:04 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Wed Mar 13 13:10:04 2019
+
+
+EN 149
+
+
+SR 310
+1552483351      0       1       Wed Mar 13 13:22:31 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 168
+1552483354      0       1       Wed Mar 13 13:22:34 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            4
+
+No successful FTG check in 1 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 310
+1552483506      0       1       Wed Mar 13 13:25:06 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552483764      0       1       Wed Mar 13 13:29:24 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552483996      0       1       Wed Mar 13 13:33:16 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552484225      0       1       Wed Mar 13 13:37:05 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552484485      0       1       Wed Mar 13 13:41:25 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552484689      0       1       Wed Mar 13 13:44:49 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552484956      0       1       Wed Mar 13 13:49:16 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1552487402      0       1       Wed Mar 13 14:30:02 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552487525      0       1       Wed Mar 13 14:32:05 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552487683      0       1       Wed Mar 13 14:34:43 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 168
+1552487692      0       1       Wed Mar 13 14:34:52 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            1
+
+No successful FTG check in 4 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 310
+1552487950      0       1       Wed Mar 13 14:39:10 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 168
+1552487959      0       1       Wed Mar 13 14:39:19 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            1
+
+No successful FTG check in 4 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 239
+1552488003      0       1       Wed Mar 13 14:40:03 2019        2224589 2
+        NDP_MRI NSP
+TPS:ps_send_ta          50
+
+TG reached the high limit. TG has been set to 190.
+Check patient positioning and if desired try 
+Auto Prescan again or use Manual Prescan.
+
+EN 239
+
+
+SR 310
+1552488262      0       1       Wed Mar 13 14:44:22 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552488592      0       1       Wed Mar 13 14:49:52 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 168
+1552488599      0       1       Wed Mar 13 14:49:59 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            4
+
+No successful FTG check in 3 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 155
+1552488949      0       1       Wed Mar 13 14:55:49 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 6 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1552490483      0       1       Wed Mar 13 15:21:23 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552490483      1       1       Wed Mar 13 15:21:23 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552490607      0       1       Wed Mar 13 15:23:27 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552490607      1       1       Wed Mar 13 15:23:27 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 173
+1552490792      0       1       Wed Mar 13 15:26:32 2019        2219864 4
+        NDP_MRI scn
+ThreePlaneUtil.cc               764
+
+An internal error occured in List/Select function at 3PLANE GRx (2).
+
+EN 173
+
+
+SR 310
+1552490904      0       1       Wed Mar 13 15:28:24 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552490904      1       1       Wed Mar 13 15:28:24 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552491218      0       1       Wed Mar 13 15:33:38 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552491218      1       1       Wed Mar 13 15:33:38 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552491453      0       1       Wed Mar 13 15:37:33 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552491453      1       1       Wed Mar 13 15:37:33 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552491822      0       1       Wed Mar 13 15:43:42 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552491822      1       1       Wed Mar 13 15:43:42 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552492098      0       1       Wed Mar 13 15:48:18 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 6 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 155
+1552494631      0       1       Wed Mar 13 16:30:31 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 2 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 163
+1552494751      0       1       Wed Mar 13 16:32:31 2019        200002364       4
+        NDP_MRI hostMonitor
+ssSigHandlers.c         216
+
+Signal 15 was received, causing a system shutdown.
+
+EN 163
+
+
+SR 160
+1552494752      0       1       Wed Mar 13 16:32:32 2019        333027  4
+        NDP_MRI lais
+lais.c          514
+
+SVAT Proxy: error: TPS event handler child terminated unexpectedly
+
+EN 160
+
+
+SR 156
+1552494754      0       1       Wed Mar 13 16:32:34 2019        200002379       4
+        NDP_MRI hostMonitor
+ssSigHandlers.c         141
+
+Process lais, pid 1955 exited with status=1
+
+EN 156
+
+
+SR 174
+1552494757      0       1       Wed Mar 13 16:32:37 2019        200002317       4
+        NDP_MRI hostMonitor
+ssProcStop.c            1288
+
+msgView could not terminate due to unsatisfied stop precursors.
+
+EN 174
+
+
+SR 171
+1552494757      1       1       Wed Mar 13 16:32:37 2019        200002317       4
+        NDP_MRI hostMonitor
+ssProcStop.c            1288
+
+ifcc could not terminate due to unsatisfied stop precursors.
+
+EN 171
+
+
+SR 170
+1552494757      2       1       Wed Mar 13 16:32:37 2019        200002317       4
+        NDP_MRI hostMonitor
+ssProcStop.c            1288
+
+NSP could not terminate due to unsatisfied stop precursors.
+
+EN 170
+
+
+SR 160
+1552494757      3       1       Wed Mar 13 16:32:37 2019        200002329       4
+        NDP_MRI hostMonitor
+ssProcStop.c            1305
+
+Failed to free up some processes for termination.
+
+EN 160
+
+
+SR 163
+1552494765      0       1       Wed Mar 13 16:32:45 2019        200002364       4
+        NDP_MRI hostMonitor
+ssSigHandlers.c         216
+
+Signal 15 was received, causing a system shutdown.
+
+EN 163
+
+
+SR 146
+1552494765      1       1       Wed Mar 13 16:32:45 2019        200002348       4
+        NDP_MRI hostMonitor
+ssProcStop.c            1531
+
+The System Software has terminated.
+
+EN 146
+
+
+SR 165
+1552494776      0       1       Wed Mar 13 16:32:56 2019        10096   4
+        NDP_MRI arserver
+arsserver.c             349
+
+Shutting central archive server process down due to signal:  2
+
+EN 165
+
+
+SR 147
+1552494776      1       1       Wed Mar 13 16:32:56 2019        10139   4
+        NDP_MRI arserver
+arsserver.c             236
+
+Closing down the archive server processes.  
+
+EN 147
+
+
+SR 202
+1552549699      0       1       Thu Mar 14 07:48:19 2019        200002316       4
+        NDP_MRI hostMonitor
+ssInitFileProcessing.c          589
+
+Application rirTest was prevented from running by environment variable NO_rirTest.
+
+EN 202
+
+
+SR 194
+1552549699      1       1       Thu Mar 14 07:48:19 2019        200002316       4
+        NDP_MRI hostMonitor
+ssInitFileProcessing.c          589
+
+Application tie was prevented from running by environment variable NO_tie.
+
+EN 194
+
+
+SR 193
+1552549699      2       1       Thu Mar 14 07:48:19 2019        200002305       4
+        NDP_MRI hostMonitor
+ssListProcessing.c              984
+
+The precursor tie, required for spectro was not found, so it will be removed.
+
+EN 193
+
+
+SR 193
+1552549700      0       1       Thu Mar 14 07:48:20 2019        200002305       4
+        NDP_MRI hostMonitor
+ssListProcessing.c              984
+
+The precursor tie, required for msgView was not found, so it will be removed.
+
+EN 193
+
+
+SR 146
+1552549700      1       1       Thu Mar 14 07:48:20 2019        200002347       4
+        NDP_MRI hostMonitor
+cupMonitor.c            318
+
+The System Software is starting.....
+
+EN 146
+
+
+SR 163
+1552549704      0       1       Thu Mar 14 07:48:24 2019        9001    4
+        NDP_MRI msgView
+application.c           274
+
+Unable to set connection -   server NETserver  host NDP_MRI.
+
+EN 163
+
+
+SR 171
+1552549725      0       1       Thu Mar 14 07:48:45 2019        5600    6
+        NDP_MRI msgView
+msgView.c               269
+
+The msgView process and the error log have been successfully initialized.
+
+EN 171
+
+
+SR 235
+1552549752      0       1       Thu Mar 14 07:49:12 2019        10180   4
+        NDP_MRI arsjob
+ArchiveDevice.c                 4615
+
+Resetting ARS  SONYSMO-F551 - $Id: @(#)ArchiveDevice.oN32 mukeshb Thu Feb 24 21:08:47 CST 2005 /view/IRIX646.5_blr_R2.9i_Patch $
+
+
+EN 235
+
+
+SR 139
+1552549756      0       1       Thu Mar 14 07:49:16 2019        10033   4
+        NDP_MRI arsjob
+ArchiveDevice.c                 4780
+
+There is no media in the drive.  
+
+EN 139
+
+
+SR 151
+1552549763      0       1       Thu Mar 14 07:49:23 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Thu Mar 14 07:49:23 2019
+
+
+EN 151
+
+
+SR 275
+1552549802      0       1       Thu Mar 14 07:50:02 2019        2225081 1
+        NDP_MRI NSP
+HPC_PORT_ID:hpc_rd_ipg_cfg              11
+
+RF door switch and PDU status are not being monitored.
+The TYME II is emulated in the ipg_stage file.  Remove emulation flag 
+and Reset TPS to enable monitoring.
+
+EN 275
+
+
+SR 149
+1552552609      0       1       Thu Mar 14 08:36:49 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Thu Mar 14 08:36:49 2019
+
+
+EN 149
+
+
+SR 310
+1552554205      0       1       Thu Mar 14 09:03:25 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552554308      0       1       Thu Mar 14 09:05:08 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552554308      1       1       Thu Mar 14 09:05:08 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552554454      0       1       Thu Mar 14 09:07:34 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552554454      1       1       Thu Mar 14 09:07:34 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552554587      0       1       Thu Mar 14 09:09:47 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552554587      1       1       Thu Mar 14 09:09:47 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552554820      0       1       Thu Mar 14 09:13:40 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552554820      1       1       Thu Mar 14 09:13:40 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552555138      0       1       Thu Mar 14 09:18:58 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552555138      1       1       Thu Mar 14 09:18:58 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552555462      0       1       Thu Mar 14 09:24:22 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552555462      1       1       Thu Mar 14 09:24:22 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552555786      0       1       Thu Mar 14 09:29:46 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 168
+1552556761      0       1       Thu Mar 14 09:46:01 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            7
+
+No successful FTG check in 1 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 155
+1552558845      0       1       Thu Mar 14 10:20:45 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 8 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 168
+1552560815      0       1       Thu Mar 14 10:53:35 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            1
+
+No successful FTG check in 2 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 168
+1552560940      0       1       Thu Mar 14 10:55:40 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            3
+
+No successful FTG check in 4 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 168
+1552561160      0       1       Thu Mar 14 10:59:20 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            1
+
+No successful FTG check in 3 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 168
+1552561330      0       1       Thu Mar 14 11:02:10 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            1
+
+No successful FTG check in 3 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 168
+1552561581      0       1       Thu Mar 14 11:06:21 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            1
+
+No successful FTG check in 2 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 168
+1552561830      0       1       Thu Mar 14 11:10:30 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            1
+
+No successful FTG check in 4 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 168
+1552562063      0       1       Thu Mar 14 11:14:23 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            1
+
+No successful FTG check in 2 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 168
+1552562227      0       1       Thu Mar 14 11:17:07 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            1
+
+No successful FTG check in 3 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 239
+1552562281      0       1       Thu Mar 14 11:18:01 2019        2224589 2
+        NDP_MRI NSP
+TPS:ps_send_ta          50
+
+TG reached the high limit. TG has been set to 190.
+Check patient positioning and if desired try 
+Auto Prescan again or use Manual Prescan.
+
+EN 239
+
+
+SR 155
+1552562444      0       1       Thu Mar 14 11:20:44 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 8 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1552562900      0       1       Thu Mar 14 11:28:20 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552563005      0       1       Thu Mar 14 11:30:05 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552563267      0       1       Thu Mar 14 11:34:27 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552563498      0       1       Thu Mar 14 11:38:18 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552563725      0       1       Thu Mar 14 11:42:05 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552563984      0       1       Thu Mar 14 11:46:24 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552564188      0       1       Thu Mar 14 11:49:48 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552564458      0       1       Thu Mar 14 11:54:18 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 151
+1552567059      0       1       Thu Mar 14 12:37:39 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Thu Mar 14 12:37:39 2019
+
+
+EN 151
+
+
+SR 155
+1552567091      0       1       Thu Mar 14 12:38:11 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 8 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 168
+1552567747      0       1       Thu Mar 14 12:49:07 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            7
+
+No successful FTG check in 1 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 168
+1552568301      0       1       Thu Mar 14 12:58:21 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            4
+
+No successful FTG check in 1 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 153
+1552568635      0       1       Thu Mar 14 13:03:55 2019        2217489 2
+        NDP_MRI ifcc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 153
+
+
+SR 153
+1552568666      0       1       Thu Mar 14 13:04:26 2019        2217489 2
+        NDP_MRI ifcc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 153
+
+
+SR 149
+1552569812      0       1       Thu Mar 14 13:23:32 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Thu Mar 14 13:23:32 2019
+
+
+EN 149
+
+
+SR 155
+1552570102      0       1       Thu Mar 14 13:28:22 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 5 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1552571264      0       1       Thu Mar 14 13:47:44 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552571377      0       1       Thu Mar 14 13:49:37 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552571517      0       1       Thu Mar 14 13:51:57 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552571708      0       1       Thu Mar 14 13:55:08 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552571952      0       1       Thu Mar 14 13:59:12 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552572269      0       1       Thu Mar 14 14:04:29 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552572579      0       1       Thu Mar 14 14:09:39 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 6 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 158
+1552573226      0       1       Thu Mar 14 14:20:26 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, Multi-coil driver is not ready.
+
+EN 158
+
+
+SR 155
+1552574522      0       1       Thu Mar 14 14:42:02 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 8 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 158
+1552575442      0       1       Thu Mar 14 14:57:22 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, Multi-coil driver is not ready.
+
+EN 158
+
+
+SR 310
+1552575447      0       1       Thu Mar 14 14:57:27 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552575573      0       1       Thu Mar 14 14:59:33 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552575830      0       1       Thu Mar 14 15:03:50 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552576062      0       1       Thu Mar 14 15:07:42 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552576290      0       1       Thu Mar 14 15:11:30 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552576549      0       1       Thu Mar 14 15:15:49 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552576753      0       1       Thu Mar 14 15:19:13 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552577205      0       1       Thu Mar 14 15:26:45 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 155
+1552580273      0       1       Thu Mar 14 16:17:53 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 8 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 163
+1552580689      0       1       Thu Mar 14 16:24:49 2019        200002364       4
+        NDP_MRI hostMonitor
+ssSigHandlers.c         216
+
+Signal 15 was received, causing a system shutdown.
+
+EN 163
+
+
+SR 160
+1552580690      0       1       Thu Mar 14 16:24:50 2019        333027  4
+        NDP_MRI lais
+lais.c          514
+
+SVAT Proxy: error: TPS event handler child terminated unexpectedly
+
+EN 160
+
+
+SR 156
+1552580691      0       1       Thu Mar 14 16:24:51 2019        200002379       4
+        NDP_MRI hostMonitor
+ssSigHandlers.c         141
+
+Process lais, pid 1969 exited with status=1
+
+EN 156
+
+
+SR 146
+1552580692      0       1       Thu Mar 14 16:24:52 2019        200002348       4
+        NDP_MRI hostMonitor
+ssProcStop.c            1531
+
+The System Software has terminated.
+
+EN 146
+
+
+SR 165
+1552580698      0       1       Thu Mar 14 16:24:58 2019        10096   4
+        NDP_MRI arserver
+arsserver.c             349
+
+Shutting central archive server process down due to signal:  2
+
+EN 165
+
+
+SR 147
+1552580698      1       1       Thu Mar 14 16:24:58 2019        10139   4
+        NDP_MRI arserver
+arsserver.c             236
+
+Closing down the archive server processes.  
+
+EN 147
+
+
+SR 202
+1552636682      0       1       Fri Mar 15 07:58:02 2019        200002316       4
+        NDP_MRI hostMonitor
+ssInitFileProcessing.c          589
+
+Application rirTest was prevented from running by environment variable NO_rirTest.
+
+EN 202
+
+
+SR 194
+1552636682      1       1       Fri Mar 15 07:58:02 2019        200002316       4
+        NDP_MRI hostMonitor
+ssInitFileProcessing.c          589
+
+Application tie was prevented from running by environment variable NO_tie.
+
+EN 194
+
+
+SR 193
+1552636682      2       1       Fri Mar 15 07:58:02 2019        200002305       4
+        NDP_MRI hostMonitor
+ssListProcessing.c              984
+
+The precursor tie, required for spectro was not found, so it will be removed.
+
+EN 193
+
+
+SR 193
+1552636682      3       1       Fri Mar 15 07:58:02 2019        200002305       4
+        NDP_MRI hostMonitor
+ssListProcessing.c              984
+
+The precursor tie, required for msgView was not found, so it will be removed.
+
+EN 193
+
+
+SR 146
+1552636682      4       1       Fri Mar 15 07:58:02 2019        200002347       4
+        NDP_MRI hostMonitor
+cupMonitor.c            318
+
+The System Software is starting.....
+
+EN 146
+
+
+SR 163
+1552636687      0       1       Fri Mar 15 07:58:07 2019        9001    4
+        NDP_MRI msgView
+application.c           274
+
+Unable to set connection -   server NETserver  host NDP_MRI.
+
+EN 163
+
+
+SR 171
+1552636709      0       1       Fri Mar 15 07:58:29 2019        5600    6
+        NDP_MRI msgView
+msgView.c               269
+
+The msgView process and the error log have been successfully initialized.
+
+EN 171
+
+
+SR 235
+1552636733      0       1       Fri Mar 15 07:58:53 2019        10180   4
+        NDP_MRI arsjob
+ArchiveDevice.c                 4615
+
+Resetting ARS  SONYSMO-F551 - $Id: @(#)ArchiveDevice.oN32 mukeshb Thu Feb 24 21:08:47 CST 2005 /view/IRIX646.5_blr_R2.9i_Patch $
+
+
+EN 235
+
+
+SR 139
+1552636738      0       1       Fri Mar 15 07:58:58 2019        10033   4
+        NDP_MRI arsjob
+ArchiveDevice.c                 4780
+
+There is no media in the drive.  
+
+EN 139
+
+
+SR 151
+1552636747      0       1       Fri Mar 15 07:59:07 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Fri Mar 15 07:59:07 2019
+
+
+EN 151
+
+
+SR 275
+1552636789      0       1       Fri Mar 15 07:59:49 2019        2225081 1
+        NDP_MRI NSP
+HPC_PORT_ID:hpc_rd_ipg_cfg              11
+
+RF door switch and PDU status are not being monitored.
+The TYME II is emulated in the ipg_stage file.  Remove emulation flag 
+and Reset TPS to enable monitoring.
+
+EN 275
+
+
+SR 310
+1552637011      0       1       Fri Mar 15 08:03:31 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552637134      0       1       Fri Mar 15 08:05:34 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552637134      1       1       Fri Mar 15 08:05:34 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 153
+1552637293      0       1       Fri Mar 15 08:08:13 2019        2217489 2
+        NDP_MRI ifcc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 153
+
+
+SR 153
+1552637293      1       1       Fri Mar 15 08:08:13 2019        2217489 2
+        NDP_MRI ifcc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 153
+
+
+SR 153
+1552637425      0       1       Fri Mar 15 08:10:25 2019        2217489 2
+        NDP_MRI ifcc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 153
+
+
+SR 158
+1552637634      0       1       Fri Mar 15 08:13:54 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, The table is not at scan plane.
+
+EN 158
+
+
+SR 310
+1552637907      0       1       Fri Mar 15 08:18:27 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552637907      1       1       Fri Mar 15 08:18:27 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552638687      0       1       Fri Mar 15 08:31:27 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 149
+1552639870      0       1       Fri Mar 15 08:51:10 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Fri Mar 15 08:51:10 2019
+
+
+EN 149
+
+
+SR 155
+1552639902      0       1       Fri Mar 15 08:51:42 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 0 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 153
+1552645117      0       1       Fri Mar 15 10:18:37 2019        2217489 2
+        NDP_MRI ifcc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 153
+
+
+SR 158
+1552647611      0       1       Fri Mar 15 11:00:11 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, The table is not at scan plane.
+
+EN 158
+
+
+SR 156
+1552648098      0       1       Fri Mar 15 11:08:18 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 11 , No of Failed Scan = 0
+
+EN 156
+
+
+SR 310
+1552648769      0       1       Fri Mar 15 11:19:29 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552648920      0       1       Fri Mar 15 11:22:00 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552649056      0       1       Fri Mar 15 11:24:16 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 153
+1552649083      0       1       Fri Mar 15 11:24:43 2019        2217489 2
+        NDP_MRI ifcc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 153
+
+
+SR 310
+1552649226      0       1       Fri Mar 15 11:27:06 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552649451      0       1       Fri Mar 15 11:30:51 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552649761      0       1       Fri Mar 15 11:36:01 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552653143      0       1       Fri Mar 15 12:32:23 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 6 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 151
+1552654320      0       1       Fri Mar 15 12:52:00 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Fri Mar 15 12:52:00 2019
+
+
+EN 151
+
+
+SR 310
+1552654421      0       1       Fri Mar 15 12:53:41 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 171
+1552654421      1       1       Fri Mar 15 12:53:41 2019        2224580 1
+        NDP_MRI NSP
+TPS:aps_cf              11
+
+Auto Prescan failed. Signal was too small to process - use Manual Prescan.
+
+EN 171
+
+
+SR 171
+1552654421      2       1       Fri Mar 15 12:53:41 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, signal too small. Please try Manual Prescan.
+
+EN 171
+
+
+SR 155
+1552655006      0       1       Fri Mar 15 13:03:26 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 2 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1552655089      0       1       Fri Mar 15 13:04:49 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552655235      0       1       Fri Mar 15 13:07:15 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552655917      0       1       Fri Mar 15 13:18:37 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552656608      0       1       Fri Mar 15 13:30:08 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 3 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 149
+1552657287      0       1       Fri Mar 15 13:41:27 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Fri Mar 15 13:41:27 2019
+
+
+EN 149
+
+
+SR 310
+1552657405      0       1       Fri Mar 15 13:43:25 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552657560      0       1       Fri Mar 15 13:46:00 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 152
+1552657718      0       1       Fri Mar 15 13:48:38 2019        2217489 2
+        NDP_MRI psc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 152
+
+
+SR 310
+1552657721      0       1       Fri Mar 15 13:48:41 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 152
+1552657783      0       1       Fri Mar 15 13:49:43 2019        2217489 2
+        NDP_MRI psc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 152
+
+
+SR 310
+1552657925      0       1       Fri Mar 15 13:52:05 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552658148      0       1       Fri Mar 15 13:55:48 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552658443      0       1       Fri Mar 15 14:00:43 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552658747      0       1       Fri Mar 15 14:05:47 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 6 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1552659568      0       1       Fri Mar 15 14:19:28 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552659704      0       1       Fri Mar 15 14:21:44 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552659962      0       1       Fri Mar 15 14:26:02 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552660190      0       1       Fri Mar 15 14:29:50 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552660469      0       1       Fri Mar 15 14:34:29 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552660712      0       1       Fri Mar 15 14:38:32 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552660984      0       1       Fri Mar 15 14:43:04 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 164
+1552661818      0       1       Fri Mar 15 14:56:58 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 155
+1552661855      0       1       Fri Mar 15 14:57:35 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1552661955      0       1       Fri Mar 15 14:59:15 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552662101      0       1       Fri Mar 15 15:01:41 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552662304      0       1       Fri Mar 15 15:05:04 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552662519      0       1       Fri Mar 15 15:08:39 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552662646      0       1       Fri Mar 15 15:10:46 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552662808      0       1       Fri Mar 15 15:13:28 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552663078      0       1       Fri Mar 15 15:17:58 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552663203      0       1       Fri Mar 15 15:20:03 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552663430      0       1       Fri Mar 15 15:23:50 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552663991      0       1       Fri Mar 15 15:33:11 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 9 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 163
+1552666804      0       1       Fri Mar 15 16:20:04 2019        200002364       4
+        NDP_MRI hostMonitor
+ssSigHandlers.c         216
+
+Signal 15 was received, causing a system shutdown.
+
+EN 163
+
+
+SR 160
+1552666805      0       1       Fri Mar 15 16:20:05 2019        333027  4
+        NDP_MRI lais
+lais.c          514
+
+SVAT Proxy: error: TPS event handler child terminated unexpectedly
+
+EN 160
+
+
+SR 156
+1552666806      0       1       Fri Mar 15 16:20:06 2019        200002379       4
+        NDP_MRI hostMonitor
+ssSigHandlers.c         141
+
+Process lais, pid 1998 exited with status=1
+
+EN 156
+
+
+SR 146
+1552666808      0       1       Fri Mar 15 16:20:08 2019        200002348       4
+        NDP_MRI hostMonitor
+ssProcStop.c            1531
+
+The System Software has terminated.
+
+EN 146
+
+
+SR 165
+1552666817      0       1       Fri Mar 15 16:20:17 2019        10096   4
+        NDP_MRI arserver
+arsserver.c             349
+
+Shutting central archive server process down due to signal:  2
+
+EN 165
+
+
+SR 147
+1552666817      1       1       Fri Mar 15 16:20:17 2019        10139   4
+        NDP_MRI arserver
+arsserver.c             236
+
+Closing down the archive server processes.  
+
+EN 147
+
+
+SR 202
+1552894760      0       1       Mon Mar 18 07:39:20 2019        200002316       4
+        NDP_MRI hostMonitor
+ssInitFileProcessing.c          589
+
+Application rirTest was prevented from running by environment variable NO_rirTest.
+
+EN 202
+
+
+SR 194
+1552894760      1       1       Mon Mar 18 07:39:20 2019        200002316       4
+        NDP_MRI hostMonitor
+ssInitFileProcessing.c          589
+
+Application tie was prevented from running by environment variable NO_tie.
+
+EN 194
+
+
+SR 193
+1552894760      2       1       Mon Mar 18 07:39:20 2019        200002305       4
+        NDP_MRI hostMonitor
+ssListProcessing.c              984
+
+The precursor tie, required for spectro was not found, so it will be removed.
+
+EN 193
+
+
+SR 193
+1552894760      3       1       Mon Mar 18 07:39:20 2019        200002305       4
+        NDP_MRI hostMonitor
+ssListProcessing.c              984
+
+The precursor tie, required for msgView was not found, so it will be removed.
+
+EN 193
+
+
+SR 146
+1552894760      4       1       Mon Mar 18 07:39:20 2019        200002347       4
+        NDP_MRI hostMonitor
+cupMonitor.c            318
+
+The System Software is starting.....
+
+EN 146
+
+
+SR 163
+1552894765      0       1       Mon Mar 18 07:39:25 2019        9001    4
+        NDP_MRI msgView
+application.c           274
+
+Unable to set connection -   server NETserver  host NDP_MRI.
+
+EN 163
+
+
+SR 171
+1552894787      0       1       Mon Mar 18 07:39:47 2019        5600    6
+        NDP_MRI msgView
+msgView.c               269
+
+The msgView process and the error log have been successfully initialized.
+
+EN 171
+
+
+SR 235
+1552894811      0       1       Mon Mar 18 07:40:11 2019        10180   4
+        NDP_MRI arsjob
+ArchiveDevice.c                 4615
+
+Resetting ARS  SONYSMO-F551 - $Id: @(#)ArchiveDevice.oN32 mukeshb Thu Feb 24 21:08:47 CST 2005 /view/IRIX646.5_blr_R2.9i_Patch $
+
+
+EN 235
+
+
+SR 139
+1552894816      0       1       Mon Mar 18 07:40:16 2019        10033   4
+        NDP_MRI arsjob
+ArchiveDevice.c                 4780
+
+There is no media in the drive.  
+
+EN 139
+
+
+SR 151
+1552894825      0       1       Mon Mar 18 07:40:25 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Mon Mar 18 07:40:25 2019
+
+
+EN 151
+
+
+SR 275
+1552894865      0       1       Mon Mar 18 07:41:05 2019        2225081 1
+        NDP_MRI NSP
+HPC_PORT_ID:hpc_rd_ipg_cfg              11
+
+RF door switch and PDU status are not being monitored.
+The TYME II is emulated in the ipg_stage file.  Remove emulation flag 
+and Reset TPS to enable monitoring.
+
+EN 275
+
+
+SR 310
+1552895999      0       1       Mon Mar 18 07:59:59 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552896130      0       1       Mon Mar 18 08:02:10 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552896285      0       1       Mon Mar 18 08:04:45 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552896491      0       1       Mon Mar 18 08:08:11 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552896744      0       1       Mon Mar 18 08:12:24 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552897077      0       1       Mon Mar 18 08:17:57 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 168
+1552897083      0       1       Mon Mar 18 08:18:03 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            4
+
+No successful FTG check in 1 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 155
+1552897608      0       1       Mon Mar 18 08:26:48 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 6 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 149
+1552898106      0       1       Mon Mar 18 08:35:06 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Mon Mar 18 08:35:06 2019
+
+
+EN 149
+
+
+SR 310
+1552901700      0       1       Mon Mar 18 09:35:00 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552901823      0       1       Mon Mar 18 09:37:03 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552901993      0       1       Mon Mar 18 09:39:53 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 153
+1552902254      0       1       Mon Mar 18 09:44:14 2019        2217489 2
+        NDP_MRI ifcc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 153
+
+
+SR 310
+1552902270      0       1       Mon Mar 18 09:44:30 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552902561      0       1       Mon Mar 18 09:49:21 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552902765      0       1       Mon Mar 18 09:52:45 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552903018      0       1       Mon Mar 18 09:56:58 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552903154      0       1       Mon Mar 18 09:59:14 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552903698      0       1       Mon Mar 18 10:08:18 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 8 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 151
+1552912554      0       1       Mon Mar 18 12:35:54 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Mon Mar 18 12:35:54 2019
+
+
+EN 151
+
+
+SR 310
+1552914197      0       1       Mon Mar 18 13:03:17 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 168
+1552914200      0       1       Mon Mar 18 13:03:20 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            4
+
+No successful FTG check in 1 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 310
+1552914370      0       1       Mon Mar 18 13:06:10 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 168
+1552914377      0       1       Mon Mar 18 13:06:17 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            4
+
+No successful FTG check in 3 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 239
+1552914422      0       1       Mon Mar 18 13:07:02 2019        2224589 2
+        NDP_MRI NSP
+TPS:ps_send_ta          50
+
+TG reached the high limit. TG has been set to 190.
+Check patient positioning and if desired try 
+Auto Prescan again or use Manual Prescan.
+
+EN 239
+
+
+SR 310
+1552914762      0       1       Mon Mar 18 13:12:42 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552915023      0       1       Mon Mar 18 13:17:03 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552915365      0       1       Mon Mar 18 13:22:45 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 149
+1552915660      0       1       Mon Mar 18 13:27:40 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Mon Mar 18 13:27:40 2019
+
+
+EN 149
+
+
+SR 310
+1552915675      0       1       Mon Mar 18 13:27:55 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552915879      0       1       Mon Mar 18 13:31:19 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552916367      0       1       Mon Mar 18 13:39:27 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 158
+1552918202      0       1       Mon Mar 18 14:10:02 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, Multi-coil driver is not ready.
+
+EN 158
+
+
+SR 310
+1552918205      0       1       Mon Mar 18 14:10:05 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552918355      0       1       Mon Mar 18 14:12:35 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552918355      1       1       Mon Mar 18 14:12:35 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552918492      0       1       Mon Mar 18 14:14:52 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552918492      1       1       Mon Mar 18 14:14:52 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552918619      0       1       Mon Mar 18 14:16:59 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552918619      1       1       Mon Mar 18 14:16:59 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552918859      0       1       Mon Mar 18 14:20:59 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552918859      1       1       Mon Mar 18 14:20:59 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552919155      0       1       Mon Mar 18 14:25:55 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552919155      1       1       Mon Mar 18 14:25:55 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552919457      0       1       Mon Mar 18 14:30:57 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552919457      1       1       Mon Mar 18 14:30:57 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552919846      0       1       Mon Mar 18 14:37:26 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1552920198      0       1       Mon Mar 18 14:43:18 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552920324      0       1       Mon Mar 18 14:45:24 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552920476      0       1       Mon Mar 18 14:47:56 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552920681      0       1       Mon Mar 18 14:51:21 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 153
+1552920708      0       1       Mon Mar 18 14:51:48 2019        2217489 2
+        NDP_MRI ifcc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 153
+
+
+SR 310
+1552920931      0       1       Mon Mar 18 14:55:31 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552921277      0       1       Mon Mar 18 15:01:17 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552922038      0       1       Mon Mar 18 15:13:58 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 6 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 158
+1552922973      0       1       Mon Mar 18 15:29:33 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, Multi-coil driver is not ready.
+
+EN 158
+
+
+SR 153
+1552923404      0       1       Mon Mar 18 15:36:44 2019        2217489 2
+        NDP_MRI ifcc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 153
+
+
+SR 156
+1552925249      0       1       Mon Mar 18 16:07:29 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 11 , No of Failed Scan = 0
+
+EN 156
+
+
+SR 151
+1552930111      0       1       Mon Mar 18 17:28:31 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Mon Mar 18 17:28:31 2019
+
+
+EN 151
+
+
+SR 149
+1552930111      1       1       Mon Mar 18 17:28:31 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Mon Mar 18 17:28:31 2019
+
+
+EN 149
+
+
+SR 151
+1552944559      0       1       Mon Mar 18 21:29:19 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Mon Mar 18 21:29:19 2019
+
+
+EN 151
+
+
+SR 149
+1552948014      0       1       Mon Mar 18 22:26:54 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Mon Mar 18 22:26:54 2019
+
+
+EN 149
+
+
+SR 332
+1552948515      0       1       Mon Mar 18 22:35:15 2019        2225470 1
+        NDP_MRI NSP
+HPC_PORT_ID:spi_cmb             203
+
+RF amplifier response timeout.
+RF MDS peripheral - RF Amp/RF Interface link failure.
+Verify that the RF Amplifier or RF Interface is powered on and that
+the RF MDS peripheral is connected to the RF Amplifier or RF Interface.
+
+EN 332
+
+
+SR 265
+1552948516      0       1       Mon Mar 18 22:35:16 2019        2225473 2
+        NDP_MRI NSP
+HPC_PORT_ID:spi_rf_mon          3050
+
+RF Amplifier Error.
+The RF amplifier reset watchdog engaged.
+This indicates either a microprocessor fault condition exists
+or a cold start is in progress.
+
+EN 265
+
+
+SR 133
+1552948517      0       1       Mon Mar 18 22:35:17 2019        2254050 2
+        NDP_MRI NSP
+HPC_PORT_ID:spi_rf_mon          1729
+
+RF Amplifier fault 84.
+
+EN 133
+
+
+SR 151
+1552962462      0       1       Tue Mar 19 02:27:42 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Tue Mar 19 02:27:42 2019
+
+
+EN 151
+
+
+SR 149
+1552965654      0       1       Tue Mar 19 03:20:54 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Tue Mar 19 03:20:54 2019
+
+
+EN 149
+
+
+SR 151
+1552980104      0       1       Tue Mar 19 07:21:44 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Tue Mar 19 07:21:44 2019
+
+
+EN 151
+
+
+SR 149
+1552980104      1       1       Tue Mar 19 07:21:44 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Tue Mar 19 07:21:44 2019
+
+
+EN 149
+
+
+SR 310
+1552982565      0       1       Tue Mar 19 08:02:45 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552982687      0       1       Tue Mar 19 08:04:47 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552982840      0       1       Tue Mar 19 08:07:20 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552983045      0       1       Tue Mar 19 08:10:45 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552983296      0       1       Tue Mar 19 08:14:56 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552983628      0       1       Tue Mar 19 08:20:28 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 168
+1552983637      0       1       Tue Mar 19 08:20:37 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            1
+
+No successful FTG check in 4 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 239
+1552983682      0       1       Tue Mar 19 08:21:22 2019        2224589 2
+        NDP_MRI NSP
+TPS:ps_send_ta          50
+
+TG reached the high limit. TG has been set to 190.
+Check patient positioning and if desired try 
+Auto Prescan again or use Manual Prescan.
+
+EN 239
+
+
+SR 155
+1552984119      0       1       Tue Mar 19 08:28:39 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 6 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1552985599      0       1       Tue Mar 19 08:53:19 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552985751      0       1       Tue Mar 19 08:55:51 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552985927      0       1       Tue Mar 19 08:58:47 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552986132      0       1       Tue Mar 19 09:02:12 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552986383      0       1       Tue Mar 19 09:06:23 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552986691      0       1       Tue Mar 19 09:11:31 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 164
+1552987507      0       1       Tue Mar 19 09:25:07 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1552987507      1       1       Tue Mar 19 09:25:07 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1552987507      2       1       Tue Mar 19 09:25:07 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1552987507      3       1       Tue Mar 19 09:25:07 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1552987508      0       1       Tue Mar 19 09:25:08 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1552987508      1       1       Tue Mar 19 09:25:08 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1552987508      2       1       Tue Mar 19 09:25:08 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1552987508      3       1       Tue Mar 19 09:25:08 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1552987509      0       1       Tue Mar 19 09:25:09 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 155
+1552987542      0       1       Tue Mar 19 09:25:42 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 6 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1552987633      0       1       Tue Mar 19 09:27:13 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 168
+1552987636      0       1       Tue Mar 19 09:27:16 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            4
+
+No successful FTG check in 1 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 310
+1552987802      0       1       Tue Mar 19 09:30:02 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552987973      0       1       Tue Mar 19 09:32:53 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552988206      0       1       Tue Mar 19 09:36:46 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552988497      0       1       Tue Mar 19 09:41:37 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552988663      0       1       Tue Mar 19 09:44:23 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552988917      0       1       Tue Mar 19 09:48:37 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552989063      0       1       Tue Mar 19 09:51:03 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1552990059      0       1       Tue Mar 19 10:07:39 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 8 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1552991733      0       1       Tue Mar 19 10:35:33 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552991733      1       1       Tue Mar 19 10:35:33 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552991868      0       1       Tue Mar 19 10:37:48 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552991868      1       1       Tue Mar 19 10:37:48 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552992023      0       1       Tue Mar 19 10:40:23 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552992023      1       1       Tue Mar 19 10:40:23 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552992182      0       1       Tue Mar 19 10:43:02 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552992182      1       1       Tue Mar 19 10:43:02 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552992445      0       1       Tue Mar 19 10:47:25 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552992445      1       1       Tue Mar 19 10:47:25 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552992740      0       1       Tue Mar 19 10:52:20 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552992740      1       1       Tue Mar 19 10:52:20 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552993039      0       1       Tue Mar 19 10:57:19 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1552993039      1       1       Tue Mar 19 10:57:19 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 164
+1552994163      0       1       Tue Mar 19 11:16:03 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1552994163      1       1       Tue Mar 19 11:16:03 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1552994163      2       1       Tue Mar 19 11:16:03 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1552994163      3       1       Tue Mar 19 11:16:03 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1552994163      4       1       Tue Mar 19 11:16:03 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1552994164      0       1       Tue Mar 19 11:16:04 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1552994164      1       1       Tue Mar 19 11:16:04 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1552994164      2       1       Tue Mar 19 11:16:04 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 155
+1552994229      0       1       Tue Mar 19 11:17:09 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1552994337      0       1       Tue Mar 19 11:18:57 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 175
+1552994337      1       1       Tue Mar 19 11:18:57 2019        2224580 1
+        NDP_MRI NSP
+TPS:aps_fastta          11
+
+Auto Prescan failed. Signal was too small to process - use Manual Prescan.
+
+EN 175
+
+
+SR 171
+1552994339      0       1       Tue Mar 19 11:18:59 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, signal too small. Please try Manual Prescan.
+
+EN 171
+
+
+SR 310
+1552994355      0       1       Tue Mar 19 11:19:15 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 175
+1552994355      1       1       Tue Mar 19 11:19:15 2019        2224580 1
+        NDP_MRI NSP
+TPS:aps_fastta          11
+
+Auto Prescan failed. Signal was too small to process - use Manual Prescan.
+
+EN 175
+
+
+SR 171
+1552994358      0       1       Tue Mar 19 11:19:18 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, signal too small. Please try Manual Prescan.
+
+EN 171
+
+
+SR 310
+1552994391      0       1       Tue Mar 19 11:19:51 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 175
+1552994391      1       1       Tue Mar 19 11:19:51 2019        2224580 1
+        NDP_MRI NSP
+TPS:aps_fastta          11
+
+Auto Prescan failed. Signal was too small to process - use Manual Prescan.
+
+EN 175
+
+
+SR 171
+1552994393      0       1       Tue Mar 19 11:19:53 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, signal too small. Please try Manual Prescan.
+
+EN 171
+
+
+SR 310
+1552994440      0       1       Tue Mar 19 11:20:40 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 175
+1552994440      1       1       Tue Mar 19 11:20:40 2019        2224580 1
+        NDP_MRI NSP
+TPS:aps_fastta          11
+
+Auto Prescan failed. Signal was too small to process - use Manual Prescan.
+
+EN 175
+
+
+SR 171
+1552994442      0       1       Tue Mar 19 11:20:42 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, signal too small. Please try Manual Prescan.
+
+EN 171
+
+
+SR 310
+1552994455      0       1       Tue Mar 19 11:20:55 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 175
+1552994455      1       1       Tue Mar 19 11:20:55 2019        2224580 1
+        NDP_MRI NSP
+TPS:aps_fastta          11
+
+Auto Prescan failed. Signal was too small to process - use Manual Prescan.
+
+EN 175
+
+
+SR 171
+1552994457      0       1       Tue Mar 19 11:20:57 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, signal too small. Please try Manual Prescan.
+
+EN 171
+
+
+SR 310
+1552994461      0       1       Tue Mar 19 11:21:01 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 175
+1552994461      1       1       Tue Mar 19 11:21:01 2019        2224580 1
+        NDP_MRI NSP
+TPS:aps_fastta          11
+
+Auto Prescan failed. Signal was too small to process - use Manual Prescan.
+
+EN 175
+
+
+SR 171
+1552994463      0       1       Tue Mar 19 11:21:03 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, signal too small. Please try Manual Prescan.
+
+EN 171
+
+
+SR 310
+1552994481      0       1       Tue Mar 19 11:21:21 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 175
+1552994481      1       1       Tue Mar 19 11:21:21 2019        2224580 1
+        NDP_MRI NSP
+TPS:aps_fastta          11
+
+Auto Prescan failed. Signal was too small to process - use Manual Prescan.
+
+EN 175
+
+
+SR 171
+1552994483      0       1       Tue Mar 19 11:21:23 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, signal too small. Please try Manual Prescan.
+
+EN 171
+
+
+SR 151
+1552994558      0       1       Tue Mar 19 11:22:38 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Tue Mar 19 11:22:38 2019
+
+
+EN 151
+
+
+SR 310
+1552994566      0       1       Tue Mar 19 11:22:46 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 175
+1552994566      1       1       Tue Mar 19 11:22:46 2019        2224580 1
+        NDP_MRI NSP
+TPS:aps_fastta          11
+
+Auto Prescan failed. Signal was too small to process - use Manual Prescan.
+
+EN 175
+
+
+SR 171
+1552994568      0       1       Tue Mar 19 11:22:48 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, signal too small. Please try Manual Prescan.
+
+EN 171
+
+
+SR 310
+1552994572      0       1       Tue Mar 19 11:22:52 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 175
+1552994572      1       1       Tue Mar 19 11:22:52 2019        2224580 1
+        NDP_MRI NSP
+TPS:aps_fastta          11
+
+Auto Prescan failed. Signal was too small to process - use Manual Prescan.
+
+EN 175
+
+
+SR 171
+1552994574      0       1       Tue Mar 19 11:22:54 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, signal too small. Please try Manual Prescan.
+
+EN 171
+
+
+SR 155
+1552994578      0       1       Tue Mar 19 11:22:58 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 0 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1552994613      0       1       Tue Mar 19 11:23:33 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 175
+1552994613      1       1       Tue Mar 19 11:23:33 2019        2224580 1
+        NDP_MRI NSP
+TPS:aps_fastta          11
+
+Auto Prescan failed. Signal was too small to process - use Manual Prescan.
+
+EN 175
+
+
+SR 171
+1552994615      0       1       Tue Mar 19 11:23:35 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, signal too small. Please try Manual Prescan.
+
+EN 171
+
+
+SR 310
+1552994621      0       1       Tue Mar 19 11:23:41 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 175
+1552994621      1       1       Tue Mar 19 11:23:41 2019        2224580 1
+        NDP_MRI NSP
+TPS:aps_fastta          11
+
+Auto Prescan failed. Signal was too small to process - use Manual Prescan.
+
+EN 175
+
+
+SR 171
+1552994623      0       1       Tue Mar 19 11:23:43 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, signal too small. Please try Manual Prescan.
+
+EN 171
+
+
+SR 310
+1552994726      0       1       Tue Mar 19 11:25:26 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 175
+1552994726      1       1       Tue Mar 19 11:25:26 2019        2224580 1
+        NDP_MRI NSP
+TPS:aps_fastta          11
+
+Auto Prescan failed. Signal was too small to process - use Manual Prescan.
+
+EN 175
+
+
+SR 171
+1552994728      0       1       Tue Mar 19 11:25:28 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, signal too small. Please try Manual Prescan.
+
+EN 171
+
+
+SR 310
+1552994732      0       1       Tue Mar 19 11:25:32 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 175
+1552994732      1       1       Tue Mar 19 11:25:32 2019        2224580 1
+        NDP_MRI NSP
+TPS:aps_fastta          11
+
+Auto Prescan failed. Signal was too small to process - use Manual Prescan.
+
+EN 175
+
+
+SR 171
+1552994734      0       1       Tue Mar 19 11:25:34 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, signal too small. Please try Manual Prescan.
+
+EN 171
+
+
+SR 144
+1552994886      0       1       Tue Mar 19 11:28:06 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, Please Try Again.
+
+EN 144
+
+
+SR 155
+1552996885      0       1       Tue Mar 19 12:01:25 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 1
+
+EN 155
+
+
+SR 149
+1552998178      0       1       Tue Mar 19 12:22:58 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Tue Mar 19 12:22:58 2019
+
+
+EN 149
+
+
+SR 164
+1552999744      0       1       Tue Mar 19 12:49:04 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 310
+1552999878      0       1       Tue Mar 19 12:51:18 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553000037      0       1       Tue Mar 19 12:53:57 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 171
+1553000037      1       1       Tue Mar 19 12:53:57 2019        2224580 1
+        NDP_MRI NSP
+TPS:aps_cf              11
+
+Auto Prescan failed. Signal was too small to process - use Manual Prescan.
+
+EN 171
+
+
+SR 171
+1553000037      2       1       Tue Mar 19 12:53:57 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, signal too small. Please try Manual Prescan.
+
+EN 171
+
+
+SR 310
+1553000047      0       1       Tue Mar 19 12:54:07 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 171
+1553000047      1       1       Tue Mar 19 12:54:07 2019        2224580 1
+        NDP_MRI NSP
+TPS:aps_cf              11
+
+Auto Prescan failed. Signal was too small to process - use Manual Prescan.
+
+EN 171
+
+
+SR 171
+1553000048      0       1       Tue Mar 19 12:54:08 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, signal too small. Please try Manual Prescan.
+
+EN 171
+
+
+SR 310
+1553000086      0       1       Tue Mar 19 12:54:46 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 164
+1553000346      0       1       Tue Mar 19 12:59:06 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 310
+1553000406      0       1       Tue Mar 19 13:00:06 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553000477      0       1       Tue Mar 19 13:01:17 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 164
+1553000697      0       1       Tue Mar 19 13:04:57 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 310
+1553000750      0       1       Tue Mar 19 13:05:50 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553000808      0       1       Tue Mar 19 13:06:48 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 164
+1553001228      0       1       Tue Mar 19 13:13:48 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 310
+1553001286      0       1       Tue Mar 19 13:14:46 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553001366      0       1       Tue Mar 19 13:16:06 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 164
+1553001725      0       1       Tue Mar 19 13:22:05 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 168
+1553001822      0       1       Tue Mar 19 13:23:42 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            7
+
+No successful FTG check in 1 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 168
+1553001914      0       1       Tue Mar 19 13:25:14 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            7
+
+No successful FTG check in 1 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 164
+1553002276      0       1       Tue Mar 19 13:31:16 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 310
+1553002370      0       1       Tue Mar 19 13:32:50 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553002370      1       1       Tue Mar 19 13:32:50 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553002459      0       1       Tue Mar 19 13:34:19 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 164
+1553002917      0       1       Tue Mar 19 13:41:57 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 310
+1553002979      0       1       Tue Mar 19 13:42:59 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553003047      0       1       Tue Mar 19 13:44:07 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 156
+1553003228      0       1       Tue Mar 19 13:47:08 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 20 , No of Failed Scan = 0
+
+EN 156
+
+
+SR 310
+1553003960      0       1       Tue Mar 19 13:59:20 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553003960      1       1       Tue Mar 19 13:59:20 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553003980      0       1       Tue Mar 19 13:59:40 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553003980      1       1       Tue Mar 19 13:59:40 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553003996      0       1       Tue Mar 19 13:59:56 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553003996      1       1       Tue Mar 19 13:59:56 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553004133      0       1       Tue Mar 19 14:02:13 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553004133      1       1       Tue Mar 19 14:02:13 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553004382      0       1       Tue Mar 19 14:06:22 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553004382      1       1       Tue Mar 19 14:06:22 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553004616      0       1       Tue Mar 19 14:10:16 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553004616      1       1       Tue Mar 19 14:10:16 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553004859      0       1       Tue Mar 19 14:14:19 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553004859      1       1       Tue Mar 19 14:14:19 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553005110      0       1       Tue Mar 19 14:18:30 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553005110      1       1       Tue Mar 19 14:18:30 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553005313      0       1       Tue Mar 19 14:21:53 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553005313      1       1       Tue Mar 19 14:21:53 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1553005732      0       1       Tue Mar 19 14:28:52 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1553008624      0       1       Tue Mar 19 15:17:04 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553008740      0       1       Tue Mar 19 15:19:00 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553008892      0       1       Tue Mar 19 15:21:32 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 168
+1553008898      0       1       Tue Mar 19 15:21:38 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            4
+
+No successful FTG check in 1 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 239
+1553008943      0       1       Tue Mar 19 15:22:23 2019        2224589 2
+        NDP_MRI NSP
+TPS:ps_send_ta          50
+
+TG reached the high limit. TG has been set to 190.
+Check patient positioning and if desired try 
+Auto Prescan again or use Manual Prescan.
+
+EN 239
+
+
+SR 310
+1553009141      0       1       Tue Mar 19 15:25:41 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553009392      0       1       Tue Mar 19 15:29:52 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553009713      0       1       Tue Mar 19 15:35:13 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553010255      0       1       Tue Mar 19 15:44:15 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 168
+1553010266      0       1       Tue Mar 19 15:44:26 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            1
+
+No successful FTG check in 4 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 239
+1553010311      0       1       Tue Mar 19 15:45:11 2019        2224589 2
+        NDP_MRI NSP
+TPS:ps_send_ta          50
+
+TG reached the high limit. TG has been set to 190.
+Check patient positioning and if desired try 
+Auto Prescan again or use Manual Prescan.
+
+EN 239
+
+
+SR 310
+1553010508      0       1       Tue Mar 19 15:48:28 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1553011036      0       1       Tue Mar 19 15:57:16 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 8 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 151
+1553012628      0       1       Tue Mar 19 16:23:48 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Tue Mar 19 16:23:48 2019
+
+
+EN 151
+
+
+SR 149
+1553016047      0       1       Tue Mar 19 17:20:47 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Tue Mar 19 17:20:47 2019
+
+
+EN 149
+
+
+SR 151
+1553030496      0       1       Tue Mar 19 21:21:36 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Tue Mar 19 21:21:36 2019
+
+
+EN 151
+
+
+SR 149
+1553030496      1       1       Tue Mar 19 21:21:36 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Tue Mar 19 21:21:36 2019
+
+
+EN 149
+
+
+SR 151
+1553044947      0       1       Wed Mar 20 01:22:27 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Wed Mar 20 01:22:27 2019
+
+
+EN 151
+
+
+SR 149
+1553048640      0       1       Wed Mar 20 02:24:00 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Wed Mar 20 02:24:00 2019
+
+
+EN 149
+
+
+SR 151
+1553063089      0       1       Wed Mar 20 06:24:49 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Wed Mar 20 06:24:49 2019
+
+
+EN 151
+
+
+SR 149
+1553066502      0       1       Wed Mar 20 07:21:42 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Wed Mar 20 07:21:42 2019
+
+
+EN 149
+
+
+SR 310
+1553071443      0       1       Wed Mar 20 08:44:03 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553071443      1       1       Wed Mar 20 08:44:03 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553071569      0       1       Wed Mar 20 08:46:09 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553071569      1       1       Wed Mar 20 08:46:09 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553071721      0       1       Wed Mar 20 08:48:41 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553071721      1       1       Wed Mar 20 08:48:41 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 152
+1553071787      0       1       Wed Mar 20 08:49:47 2019        2217489 2
+        NDP_MRI psc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 152
+
+
+SR 310
+1553071908      0       1       Wed Mar 20 08:51:48 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553071908      1       1       Wed Mar 20 08:51:48 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553072177      0       1       Wed Mar 20 08:56:17 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553072177      1       1       Wed Mar 20 08:56:17 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553072473      0       1       Wed Mar 20 09:01:13 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553072473      1       1       Wed Mar 20 09:01:13 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553072773      0       1       Wed Mar 20 09:06:13 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553072773      1       1       Wed Mar 20 09:06:13 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1553073166      0       1       Wed Mar 20 09:12:46 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1553073622      0       1       Wed Mar 20 09:20:22 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553073735      0       1       Wed Mar 20 09:22:15 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553073735      1       1       Wed Mar 20 09:22:15 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553073887      0       1       Wed Mar 20 09:24:47 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553073887      1       1       Wed Mar 20 09:24:47 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553074044      0       1       Wed Mar 20 09:27:24 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553074044      1       1       Wed Mar 20 09:27:24 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553074308      0       1       Wed Mar 20 09:31:48 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553074308      1       1       Wed Mar 20 09:31:48 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553074604      0       1       Wed Mar 20 09:36:44 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553074604      1       1       Wed Mar 20 09:36:44 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553074901      0       1       Wed Mar 20 09:41:41 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 0 (or receiver 1 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553074901      1       1       Wed Mar 20 09:41:41 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 164
+1553075406      0       1       Wed Mar 20 09:50:06 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1553075406      1       1       Wed Mar 20 09:50:06 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1553075407      0       1       Wed Mar 20 09:50:07 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1553075408      0       1       Wed Mar 20 09:50:08 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 155
+1553075443      0       1       Wed Mar 20 09:50:43 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1553075475      0       1       Wed Mar 20 09:51:15 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553075475      1       1       Wed Mar 20 09:51:15 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553075660      0       1       Wed Mar 20 09:54:20 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553075660      1       1       Wed Mar 20 09:54:20 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553075851      0       1       Wed Mar 20 09:57:31 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553075851      1       1       Wed Mar 20 09:57:31 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553076097      0       1       Wed Mar 20 10:01:37 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553076097      1       1       Wed Mar 20 10:01:37 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 168
+1553076103      0       1       Wed Mar 20 10:01:43 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            4
+
+No successful FTG check in 1 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 310
+1553076344      0       1       Wed Mar 20 10:05:44 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553076344      1       1       Wed Mar 20 10:05:44 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553076557      0       1       Wed Mar 20 10:09:17 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553076557      1       1       Wed Mar 20 10:09:17 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 168
+1553076562      0       1       Wed Mar 20 10:09:22 2019        2224713 1
+        NDP_MRI NSP
+TPS:aps_exec            4
+
+No successful FTG check in 1 iterations.  APS1 will run automatically.
+
+EN 168
+
+
+SR 310
+1553076778      0       1       Wed Mar 20 10:12:58 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 2 (or receiver 3 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553076778      1       1       Wed Mar 20 10:12:58 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1553077275      0       1       Wed Mar 20 10:21:15 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 7 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 158
+1553077631      0       1       Wed Mar 20 10:27:11 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, Multi-coil driver is not ready.
+
+EN 158
+
+
+SR 155
+1553079035      0       1       Wed Mar 20 10:50:35 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 8 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 153
+1553079611      0       1       Wed Mar 20 11:00:11 2019        2217489 2
+        NDP_MRI ifcc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 153
+
+
+SR 152
+1553079665      0       1       Wed Mar 20 11:01:05 2019        2217489 2
+        NDP_MRI psc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 152
+
+
+SR 151
+1553080952      0       1       Wed Mar 20 11:22:32 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Wed Mar 20 11:22:31 2019
+
+
+EN 151
+
+
+SR 149
+1553080952      1       1       Wed Mar 20 11:22:32 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Wed Mar 20 11:22:32 2019
+
+
+EN 149
+
+
+SR 164
+1553081056      0       1       Wed Mar 20 11:24:16 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1553081057      0       1       Wed Mar 20 11:24:17 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1553081057      1       1       Wed Mar 20 11:24:17 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1553081057      2       1       Wed Mar 20 11:24:17 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1553081057      3       1       Wed Mar 20 11:24:17 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1553081058      0       1       Wed Mar 20 11:24:18 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 164
+1553081058      1       1       Wed Mar 20 11:24:18 2019        2219581 1
+        NDP_MRI scn
+SrxLandmark.m           377
+
+A new landmark has been issued since the previous prescription.
+
+EN 164
+
+
+SR 155
+1553081100      0       1       Wed Mar 20 11:25:00 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 8 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 310
+1553081168      0       1       Wed Mar 20 11:26:08 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553081296      0       1       Wed Mar 20 11:28:16 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553081450      0       1       Wed Mar 20 11:30:50 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553081656      0       1       Wed Mar 20 11:34:16 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 310
+1553081909      0       1       Wed Mar 20 11:38:29 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 153
+1553081936      0       1       Wed Mar 20 11:38:56 2019        2217489 2
+        NDP_MRI ifcc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 153
+
+
+SR 310
+1553082218      0       1       Wed Mar 20 11:43:38 2019        2224709 2
+        NDP_MRI NSP
+TPS:aps_frame_range_check               10
+
+Low signal detected. Please check the signal level for receiver 3 (or receiver 4 while 
+using Manual Prescan).
+Note that for 3 coil scans, one coil will cause a low signal detected message to occur.
+
+EN 310
+
+
+SR 155
+1553082596      0       1       Wed Mar 20 11:49:56 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 6 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 158
+1553085629      0       1       Wed Mar 20 12:40:29 2019        2224666 1
+        NDP_MRI psc
+PscMainControl.cc               1322
+
+Auto Prescan failed, Multi-coil driver is not ready.
+
+EN 158
+
+
+SR 153
+1553085873      0       1       Wed Mar 20 12:44:33 2019        2217489 2
+        NDP_MRI ifcc
+PsdError.cc             450
+
+Response from PSD not received within timeout period.
+
+EN 153
+
+
+SR 156
+1553087784      0       1       Wed Mar 20 13:16:24 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 11 , No of Failed Scan = 0
+
+EN 156
+
+
+SR 155
+1553090228      0       1       Wed Mar 20 13:57:08 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 8 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 156
+1553093425      0       1       Wed Mar 20 14:50:25 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 11 , No of Failed Scan = 0
+
+EN 156
+
+
+SR 151
+1553095402      0       1       Wed Mar 20 15:23:22 2019        2126    4
+        NDP_MRI imserver
+new_image_mgnt.c                897
+
+Starting check at  Wed Mar 20 15:23:22 2019
+
+
+EN 151
+
+
+SR 179
+1553095756      0       1       Wed Mar 20 15:29:16 2019        2224565 2
+        NDP_MRI psc
+PscMainControl.cc               1184
+R1=11  R2=15  TG=137  AX= 63868297  Center Frequency set on maximum peak
+
+EN 179
+
+
+SR 156
+1553096480      0       1       Wed Mar 20 15:41:20 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 11 , No of Failed Scan = 1
+
+EN 156
+
+
+SR 155
+1553096941      0       1       Wed Mar 20 15:49:01 2019        2218650 1
+        NDP_MRI scn
+RxManagerCB.c           423
+
+Scn: No of Successful Scan = 0 , No of Failed Scan = 0
+
+EN 155
+
+
+SR 149
+1553099372      0       1       Wed Mar 20 16:29:32 2019        2127    4
+        NDP_MRI imserver
+new_image_mgnt.c                900
+
+Ending check at  Wed Mar 20 16:29:32 2019
+
+
+EN 149
+{sdc@
