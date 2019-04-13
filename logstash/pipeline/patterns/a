@@ -1,0 +1,1 @@
+DATEF (%{DAY:day} %{MONTH:month} %{MONTHDAY:date} %{TIME:time} %{YEAR:year})
